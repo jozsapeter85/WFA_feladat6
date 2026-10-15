@@ -116,6 +116,7 @@
             button1.TabIndex = 2;
             button1.Text = "megállapít";
             button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -132,7 +133,7 @@
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "intervallum";
             ResumeLayout(false);
             PerformLayout();
         }
